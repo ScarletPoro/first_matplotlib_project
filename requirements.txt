@@ -1,2 +1,3 @@
 matplotlib
-pip
+numpy
+python-docx
