@@ -17,7 +17,7 @@ dati_utenti = [
     {'nome': 'Mario', 'eta': 35, 'peso': 85, 'altezza': 1.75},
     {'nome': 'Luigi', 'eta': 42, 'peso': 95, 'altezza': 1.82},
     {'nome': 'Giulia', 'eta': 28, 'peso': 68, 'altezza': 1.65},
-    {'nome': 'Carla', 'eta': 50, 'peso': 102, 'altezza': 1.70},
+    {'nome': 'Carla', 'eta': 85, 'peso': 102, 'altezza': 1.70},
     {'nome': 'Pietro', 'eta': 31, 'peso': 77, 'altezza': 1.78}
 ]
 
